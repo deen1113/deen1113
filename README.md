@@ -1,5 +1,7 @@
 <h1 align="center">Welcome 👋 </h1>
-<h3>A Northeastern Computer Science Student</h3>
+I'm Deen, a Northeastern University Computer Science Student.
+
+I'm interested in software development, neural networks, and RAG modelling.
 
 - I’m currently working on CitySimplify! Learn more about it here: [CitySimplify](https://github.com/RithvikNandhyala/CitySimplify)
 
